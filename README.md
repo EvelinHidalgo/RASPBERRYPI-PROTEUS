@@ -147,34 +147,65 @@ A todos aquellos que trabajen en el ámbito de la electrónica les interesará l
 
 **2.** Ingresar el nombre con el que queremos guardar la simulación en este caso “Simulación Raspberry Pi” y el lugar donde se va a guardar el archivo.Click en next.
 
-   ![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img4.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img5.png)
 
 **3.**  Click en Create a schematic from the selected template-Landscape A2.Click en next.
+
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img6.png)
 
 
 **4.** Click en Do not create a PCB layout from the select template.Click en next.
 
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img7.png)
+
 **5.** Click en Create Flowchart Project.Click en next.
+
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img8.png)
 
 **6.** Click en Create Flowchart Project.
 
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img9.png)
+
 **7.** En el espacio Family escoger Raspberry Pi. Click en next.  Click en Finish.
+
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img10.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img11.png)
 
 **8.** Se abrirá una nueva ventana y para ejemplificar una simulación con una raspberry pi se utilizará un led y un botón .Click derecho en RPI3(U1) – Add Peripheal.
 
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img12.png)
+
 **9.** Se abrirá una nueva ventana.Click en Breakout Peripherals.
+
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img13.png)
 
 **10.** Se abrirá una nueva ventana.Elegir LED(Blue) y Momentary Action Push Button.Click en add.
 
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img14.png)
+
 **11.** Se puede observar que en la parte izquierda de la ventana Visual Designer ya se añadió el botón y el led y en la ventana Schematic Capture también.
+
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img15.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img16.png)
 
 **12.** Es importante elegir los pines a utilizarse de la Rapberry Pi en este caso el pin GPIO5 para el led Y GPIO21 para el botón.
 
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img17.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img18.png)
+
 **13.** En la ventana Visual designer es necesario generar el diagrama de flujo para representar el proceso que realizará la Raspberry Pi
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img19.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img20.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img21.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img22.png)
 
 **14.** Al terminar el diagrama de flujo click en la parte izquierda para simular.Se observa que se abre una nueva ventana donde aparecen los componentes añadidos con anterioridad.
 
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img23.png)
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img24.png)
+
 **15.** Finalmente se puede observar la simulación de la Raspberry Pi ejemplificada con un led que se prende cada vez que se pulse el botón.
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/blob/master/img/img25.png)
 
 **BIBLIOGRAFÍA**
 
