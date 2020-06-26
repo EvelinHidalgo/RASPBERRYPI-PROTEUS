@@ -49,3 +49,5 @@ Windows 10 aún en desarrollo
 **•	Tamaño:** 86 x 56 x 20 mm
 
 **ESPICIFICACIONES HADWARE RASPBERRY PI 3**
+
+![](https://github.com/EvelinHidalgo/RASPBERRYPI-PROTEUS/tree/master/img)
